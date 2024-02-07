@@ -4,5 +4,7 @@
 <p align="center">It's picture of my ancester living in 630MYA. I really respect to him</p>
 <br>
 <br>
+<br>
+<br>
 <p align="center">I am (trying to) learning a programming language so that it will stand the test of time.</p>
-<p align="center">nice to meet you</p>
+<p align="center">so, nice to meet you</p>
