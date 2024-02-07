@@ -3,4 +3,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/hachchch/hachchch.github.io/master/AureliaAurita.png"></img></p>
 <p align="center">It's picture of my ancester living in 630MYA. I really respect to him</p>
 
-I am (trying to) learning a programming language so that it will stand the test of time. Best regards.
+<p>I am (trying to) learning a programming language so that it will stand the test of time.</p>
+<p>nice to meet you</p>
