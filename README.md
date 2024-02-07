@@ -2,6 +2,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/hachchch/hachchch.github.io/master/AureliaAurita.png"></img></p>
 <p align="center">It's picture of my ancester living in 630MYA. I really respect to him</p>
-
-<p>I am (trying to) learning a programming language so that it will stand the test of time.</p>
+<br>
+<br>
+<p align="center">I am (trying to) learning a programming language so that it will stand the test of time.</p>
 <p align="center">nice to meet you</p>
