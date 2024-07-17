@@ -4,7 +4,7 @@
 And I do programming as a hobby.</p>
 <p>have a nice day by the way</p>
 
-[![Aquatilis](https://hachchch.github.io/Aquatilis/)]
+[![Aquatilis](https://hachchch.github.io/Aquatilis/)](https://hachchch.github.io/Aquatilis/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachchch&hide=jupyter%20notebook&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
