@@ -4,5 +4,7 @@
 And I do programming as a hobby.</p>
 <p>have a nice day by the way</p>
 
+![stat](https://github-readme-stats.vercel.app/api?username=hachchch&show_icons=true&count_private=true&&]&theme=radical&title_color=fad000&bg_color=30,e96443,904e95&icon_color=ffeb95&hide=stars)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hachchch&hide=jupyter%20notebook&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
