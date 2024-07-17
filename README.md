@@ -3,10 +3,3 @@
 <p>I'm a beginner in javascript and I like making <a href="https://hachchch.github.io/linkTree.html">games</a> with that.<br>
 And I do programming as a hobby.</p>
 <p>have a nice day by the way</p>
-
-<input type="button" value="ボタン" />
-
-<script type="text/javascript">
-</script>
-  
-[![Aquatilis](https://github.com/hachchch/originalStatusView/blob/main/api/hachchch)](https://hachchch.github.io/Aquatilis/)
