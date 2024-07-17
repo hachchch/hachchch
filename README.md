@@ -4,4 +4,4 @@
 And I do programming as a hobby.</p>
 <p>have a nice day by the way</p>
 
-[![Aquatilis](top-langs/?username=hachchch&hide=jupyter%20notebook&layout=compact&theme=radical)](https://hachchch.github.io/Aquatilis/)
+[![Aquatilis](https://github.com/hachchch/originalStatusView/blob/main/api/hachchch)](https://hachchch.github.io/Aquatilis/)
