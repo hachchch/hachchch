@@ -4,7 +4,7 @@
 And I do programming as a hobby.</p>
 <p>have a nice day by the way</p>
 
-<input type="button "/>
+<input type="button" value="ボタン" />
 
 <script type="text/javascript">
 </script>
